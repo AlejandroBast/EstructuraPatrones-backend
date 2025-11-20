@@ -1,0 +1,30 @@
+server:
+  port: 8080
+
+supabase:
+  url: ${SUPABASE_URL:}
+  anonKey: ${SUPABASE_ANON_KEY:}
+  serviceRoleKey: ${SUPABASE_SERVICE_ROLE:}
+
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
+
+jwt:
+  secret: ${JWT_SECRET:change-me-in-dev}
+  expMinutes: ${JWT_EXP_MINUTES:60}
+
+finance:
+  tables:
+    income: ${FINANCE_TABLE_INCOME:ingresos}
+    expenses: ${FINANCE_TABLE_EXPENSES:gastos}
+    micro: ${FINANCE_TABLE_MICRO:microgastos}
+    userColumn: ${FINANCE_TABLE_USER_COL:user_id}
+
+ai:
+  apiUrl: ${AI_API_URL:}
+  apiKey: ${AI_API_KEY:}
+  model: ${AI_MODEL:}
+  referer: ${AI_REFERER:}
+  title: ${AI_TITLE:}
