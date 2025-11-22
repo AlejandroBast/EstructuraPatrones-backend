@@ -1,51 +1,52 @@
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\Application.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\config\CorsConfig.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\HistoryStack.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\RequestQueue.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\RoleHierarchyTree.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\UserStoreSingleton.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\domain\AuthResponse.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\domain\User.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\facade\AuthFacade.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\factory\AuthServiceFactory.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\factory\JwtAuthServiceFactory.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\security\AuthGuard.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\security\JwtProperties.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\security\JwtUtil.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\security\PasswordConfig.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\service\AuthService.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\service\JwtAuthService.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAdminService.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAuthAdapter.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAuthService.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\SupabaseProperties.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\web\AuthController.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\web\dto\AuthRequestLogin.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\web\dto\AuthRequestRegister.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\auth\web\GlobalExceptionHandler.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\config\AiProperties.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\config\FinanceTablesProperties.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Expense.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Income.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\MicroExpense.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Recommendation.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Transaction.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionComponent.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionGroup.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionLeaf.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\decorator\PotentialSavingsDecorator.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\decorator\RecommendationDecorator.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\observer\ExpenseNotifier.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\observer\ExpenseObserver.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\strategy\DailyLimitStrategy.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\strategy\FixedDailyLimit.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\InMemoryRepository.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\SupabaseRepository.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\TransactionRepository.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\service\AiAdvisor.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\service\FinanceFacade.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\ExpenseCreateDto.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\IncomeCreateDto.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\MicroExpenseCreateDto.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\TransactionView.java
-C:\Users\qalej\Documents\Develop\patronesFinal\EstructuraPatrones-backend\src\main\java\com\example\finance\web\FinanceController.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\Application.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\config\CorsConfig.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\config\SeedConfig.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\HistoryStack.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\RequestQueue.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\RoleHierarchyTree.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\datastruct\UserStoreSingleton.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\domain\AuthResponse.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\domain\User.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\facade\AuthFacade.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\factory\AuthServiceFactory.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\factory\JwtAuthServiceFactory.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\security\AuthGuard.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\security\JwtProperties.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\security\JwtUtil.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\security\PasswordConfig.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\service\AuthService.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\service\JwtAuthService.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAdminService.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAuthAdapter.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\service\SupabaseAuthService.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\SupabaseProperties.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\web\AuthController.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\web\dto\AuthRequestLogin.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\web\dto\AuthRequestRegister.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\auth\web\GlobalExceptionHandler.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\config\AiProperties.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\config\FinanceTablesProperties.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Expense.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Income.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\MicroExpense.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Recommendation.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\domain\Transaction.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionComponent.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionGroup.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\composite\TransactionLeaf.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\decorator\PotentialSavingsDecorator.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\decorator\RecommendationDecorator.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\observer\ExpenseNotifier.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\observer\ExpenseObserver.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\strategy\DailyLimitStrategy.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\patterns\strategy\FixedDailyLimit.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\InMemoryRepository.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\SupabaseRepository.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\repository\TransactionRepository.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\service\AiAdvisor.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\service\FinanceFacade.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\ExpenseCreateDto.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\IncomeCreateDto.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\MicroExpenseCreateDto.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\web\dto\TransactionView.java
+C:\Users\MAICOL LAGOS\Videos\AnyDesk\login-logout\frontend\EstructuraPatrones-backend\src\main\java\com\example\finance\web\FinanceController.java

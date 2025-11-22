@@ -23,8 +23,8 @@ finance:
     userColumn: ${FINANCE_TABLE_USER_COL:user_id}
 
 ai:
-  apiUrl: ${AI_API_URL:}
+  apiUrl: ${AI_API_URL:https://openrouter.ai/api/v1/chat/completions}
   apiKey: ${AI_API_KEY:}
-  model: ${AI_MODEL:}
+  model: ${AI_MODEL:deepseek/deepseek-r1:free}
   referer: ${AI_REFERER:}
   title: ${AI_TITLE:}
